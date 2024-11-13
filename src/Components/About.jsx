@@ -1,5 +1,5 @@
 import React from "react";
-import aboutimage from "../assets/Ashish.jpg";
+import aboutimage from "../assets/aboutme-image.png";
 const About = () => {
   return (
     <div className="bg-black text-white py-20" id="about">
